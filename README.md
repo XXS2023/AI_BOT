@@ -9,8 +9,6 @@ Welcome to the AI Chat-Bot project! This bot is designed to provide users with i
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Code Overview](#code-overview)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
